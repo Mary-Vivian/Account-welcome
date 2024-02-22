@@ -1,0 +1,19 @@
+
+.form{
+    text-align: center;
+    border: solid 1px;
+    display: grid;
+    grid-template-columns:50%50%;
+    
+}
+#confirm{
+    text-align: center;
+    background-color: purple ;
+    color: white;
+
+}
+#or{
+    text-align: center;
+}
+
+
